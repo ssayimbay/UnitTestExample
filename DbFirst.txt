@@ -1,0 +1,1 @@
+Data Source=.,1444;Initial Catalog=UnitTestDB;User ID=sa;Password=********;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
